@@ -1,6 +1,5 @@
 .bg-color{
     background-color: #239BD8;
-    width: 192rem;
     height: 14.3rem;
 }
 
@@ -46,4 +45,14 @@
 
 .color-footer{
     color: #A1A1A1;
+}
+
+.w{
+    width: 49rem;
+}
+
+@media screen and (max-width:900px) {
+    .card{
+      flex-wrap: wrap;
+    }
 }
