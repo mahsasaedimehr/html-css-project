@@ -7,3 +7,23 @@
 .gap-25{
     gap: 25rem;
 }
+
+.container-p{
+    width: 192rem;
+    height: auto;
+    background-color: white;
+}
+
+.border-b{
+    border-bottom: 0.3rem solid #239BD8;
+    padding-bottom: 3rem;
+}
+
+.w-h{
+    width: 65rem;
+    height: auto;
+}
+
+.padding-y{
+    padding: 2rem 62rem;
+}
